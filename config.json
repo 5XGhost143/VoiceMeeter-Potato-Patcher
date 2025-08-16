@@ -1,0 +1,8 @@
+{
+  "process_name": "voicemeeter8.exe",
+  "module_name": "voicemeeter8.exe",
+  "offsets": {
+    "base_offset": "0x003C17A8",
+    "addr_offset": "0x10D48"
+  }
+}
